@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kneip"
+  given-names: "Eleanor"
+title: "Numerical Simulation of the Surface Code for Varying Distance"
+version: 0.0.1
+abstract: "A demonstration of the surface code using error models from stim and decoders from Pymatching."
+repository-code: "https://github.com/e-kneip/qldpc-numerical-simulations"
+# date-released: 2024-11-14
